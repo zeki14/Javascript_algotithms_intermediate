@@ -56,4 +56,6 @@ function translatePigLatin(str) {
       // Take the string from the first vowel to the last char
       // then add the consonants that were previously omitted and add the ending.
       pigLatin = str.substr(vowelIndice) + str.substr(0, vowelIndice) + "ay";
-    }}
+    }
+    return pigLatin;
+}
