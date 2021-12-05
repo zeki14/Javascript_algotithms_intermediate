@@ -14,5 +14,5 @@
  13. Palindrome Checker
  14. Roman Numeral Converter
  15. Caesars Cipher
- 16. 
- 
+ 16. Telephone Check
+ 17. Cash Register
